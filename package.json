@@ -1,0 +1,32 @@
+{
+  "name": "avatar-component-smak",
+  "version": "1.0.2",
+  "description": "Web Component using plain javascript for avatar with name",
+  "main": "AvatarComponent.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaileshMak/web-component-avatar"
+  },
+  "keywords": [
+    "avatar",
+    "webcomponent",
+    "avatarwebcomponent",
+    "avatar-component",
+    "avatar-component-smak",
+    "smak"
+  ],
+  "author": "shailesh makwana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShaileshMak/web-component-avatar/issues"
+  },
+  "homepage": "https://github.com/ShaileshMak/web-component-avatar#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.0.3",
+    "file-loader": "^6.0.0",
+    "url-loader": "^4.1.0"
+  }
+}
